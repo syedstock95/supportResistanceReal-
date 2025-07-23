@@ -1,6 +1,10 @@
 streamlit
-feedparser
 pandas
 requests
-xlsxwriter
+numpy
+plotly
+matplotlib
+scikit-learn
 beautifulsoup4
+feedparser
+xlsxwriter
